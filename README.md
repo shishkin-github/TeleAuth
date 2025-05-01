@@ -16,7 +16,7 @@ TeleAuth is a Telegram tool for creating .session files using the [Telethon](htt
 
    ```bash
    git clone https://github.com/shishkin-github/TeleAuth.git
-   cd TeleAuth-1.0.0
+   cd TeleAuth
    ```
 
 2. Make sure you have Python 3.7 or higher installed.
@@ -94,7 +94,7 @@ TeleAuth — это Telegram инструмент для создания фай
 
    ```bash
    git clone https://github.com/shishkin-github/TeleAuth.git
-   cd TeleAuth-1.0.0
+   cd TeleAuth
    ```
 
 2. Убедитесь, что у вас установлен Python 3.7 или выше.
